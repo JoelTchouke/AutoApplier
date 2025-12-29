@@ -1,0 +1,45 @@
+contact:
+  name: "Joel Tchouke"
+  email: "tchoukejoel@gmail.com"
+  phone: "929-339-7034"
+  location: "Mankato, MN"
+  linkedin: "https://linkedin.com/in/joel-tchouke-197390280/"
+  github: "https://github.com/JoelTchouke"
+  portfolio: "https://joeltchouke.com"
+
+education:
+  school: "Minnesota State University, Mankato"
+  degree: "B.S. Computer Engineering"
+  minor: "Physics"
+  grad_date: "2026-05"
+  gpa: "3.7"
+
+resumes:
+  embedded_pdf_path: "/path/to/embedded.pdf"
+  software_pdf_path: "/path/to/software.pdf"
+
+experience:
+  - company: "AGCO"
+    title: "Software Engineer Intern"
+    start: "2025-05"
+    end: "2025-12"
+    bullets:
+      - "Developed embedded C/C++ software for ARM Cortex-M4/A35..."
+      - "Designed and executed unit/integration tests..."
+  - company: "Minnesota State University"
+    title: "Cybersecurity Analyst"
+    start: "2025-01"
+    end: "present"
+    bullets:
+      - "Built Python tooling for Splunk..."
+projects:
+  - name: "Innovision Smart Glasses"
+    status: "completed"
+    bullets: [...]
+  - name: "Backend Service"
+    status: "in_progress"
+    allowed_on_resume: true
+    bullets: [...]
+eligibility:
+  work_authorization_answer: "..."   # You decide exact wording
+  sponsorship_needed: "..."          # You decide exact wording
